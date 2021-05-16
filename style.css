@@ -1,0 +1,70 @@
+html {
+    background: url("C:\\Users\\Shivam\\Desktop\\idlex-1.18\\Portfolio Website\\Images\\Background Image 1.jpg") no-repeat center center fixed;
+}
+
+.prof-box {
+    width: 450px;
+    height: 450px;
+    background-color: rgba(0,0,0,0.7);
+    padding: 40px;
+    color: aliceblue;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-color: aliceblue;
+    border-width: 4px;
+    border-radius: 50;
+}
+
+h1 {
+    font-weight: 100;
+    letter-spacing: 6;
+    font-size: 40px;
+}
+
+p1 {
+    font-weight: 100;
+    letter-spacing: 1;
+    font-size: 40px;
+}
+
+.line-break {
+    width: 140px;
+    margin: 0 auto;
+    border-top: 1px solid white;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+.fa-instagram {
+    background: #f40083;
+    color: white;
+  }
+
+.fa-github {
+    background: #00b489;
+    color: white;
+  }
